@@ -76,11 +76,3 @@
 </p> 
 
 
-AI Systems - Research Grade
-Deep Learning - Efficient
-NLP - Transformers
-
-
-<p align="center">
-  <i>Designing scalable, explainable, and CPU-efficient AI systems.</i>
-</p>
