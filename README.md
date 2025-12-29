@@ -1,53 +1,68 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+👋+I'm+Paul;AI+%7C+ML+%7C+Deep+Learning;I+Build+Efficient+Models" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=Hi+👋+I'm+Paul;Computer+Science+%26+Technology;AI+%7C+ML+%7C+Deep+Learning;Building+Efficient+AI+Systems" />
 </h1>
 
 <p align="center">
-  <code>Computer Science & Technology</code> • 
+  <img src="https://komarev.com/ghpvc/?username=toxicovi&label=Profile%20Views&color=00E5FF&style=flat" />
+</p>
+
+<p align="center">
   <code>AI & Machine Learning</code> • 
-  <code>Research-Oriented</code>
+  <code>NLP</code> • 
+  <code>Time-Series Forecasting</code> • 
+  <code>Efficient Deep Learning</code>
 </p>
 
 ---
 
-### 👨‍💻 About
-- 🎓 M.Eng (AI & ML) @ Xi’an Jiaotong University  
-- 💡 Interested in NLP, Time-Series, Efficient Deep Learning  
-- ⚙️ Focused on CPU-friendly & explainable models  
+## 👨‍💻 About Me
+
+🎓 **Master of Engineering (AI & Machine Learning)**  
+🏫 *Xi’an Jiaotong University, China*
+
+🎓 **Bachelor of Engineering (Computer Science & Technology)**  
+🏫 *Xi’an Jiaotong University, China*
+
+💡 Passionate about **lightweight, explainable, and CPU-efficient deep learning models**  
+🚀 Research-focused developer with strong foundations in **ML, NLP, Optimization & Systems**  
+🧠 Interested in **applied AI, digital health, and real-world ML deployment**
+
+📫 **Email:** `sendmail2ovi@gmail.com`
 
 ---
 
-### 🚀 Featured Work
-- **LiteFND++** — Lightweight Fake News Detection (98.63% accuracy, CPU-optimized)  
-- **NeuroSTF** — Neuroplastic Sparse Attention for Time-Series Forecasting  
+## 🚀 Featured Projects
+
+### 🔹 LiteFND++
+**Lightweight & Interpretable Fake News Detection**
+- DeBERTa-v3-small + GLU + Multi-Scale Attention  
+- SHAP-based explainability & credibility scoring  
+- **98.63% accuracy** with minimal computational cost  
+
+🔗 https://github.com/toxicovi/LiteFND-
 
 ---
 
-### 🧠 Tech Stack
+### 🔹 NeuroSTF
+**Neuroplastic Sparse Attention for Time-Series Forecasting**
+- Dynamic prune–regrow sparse attention  
+- Temporal CNN + MLP fusion in PyTorch  
+- Optimized for **long-horizon forecasting on CPUs**
+
+🔗 https://github.com/toxicovi/NeuroSTF
+
+---
+
+## 🧠 Tech Stack
+
 ```text
-Python • C/C++ • Java • PyTorch • Django • Laravel
-ML • NLP • Optimization • Linux • Git • LaTeX
-📊 Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=toxicovi&show_icons=true&theme=tokyonight&hide_border=true" height="150"/> </p>
-📫 Contact
-📧 sendmail2ovi@gmail.com
-🌐 github.com/toxicovi
-
-⚡ Code smart. Build light. Think deep.
-
-yaml
-Copy code
-
----
-
-If you want next-level cool 😎 I can:
-- Add **floating particles / neon glow**
-- Make a **terminal-style intro**
-- Convert this into a **research-only academic README**
-- Match it with **dark / cyber / minimal themes**
-
-Just say the vibe 🔥
-
+Languages      : Python | C | C++ | Java | Assembly
+ML / DL        : PyTorch | NLP | Time-Series | Optimization
+Web            : Django | Laravel | HTML
+Databases      : MySQL | Oracle
+Tools          : Git | Linux | LaTeX | MATLAB | Arduino
+Networking     : Wireshark | Cisco Packet Tracer | NS2
+Hardware / HDL : Verilog | VHDL | Logisim | Vivado
 
 
 
