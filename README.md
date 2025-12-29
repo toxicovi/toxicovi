@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=FFD700&center=true&vCenter=true&width=600&lines=Hello+World!+I+am+Paul" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=FFD700&center=true&vCenter=true&width=600&lines=Hello+World!+I+am+Paul..." />
 </h2>
 
 <h2 align="center">
@@ -19,14 +19,14 @@
 ## 🎓 Education
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1200&color=9370DB&center=true&vCenter=true&width=700&lines=Master+of+Engineering+%28AI+%26+Machine+Learning%29;Xi%E2%80%99an+Jiaotong+University%2C+China" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1200&color=9370DB&center=true&vCenter=true&width=700&lines=Master+of+Engineering+%28Computer+Science+and+Technology%29;Research+Focus%3A+AI+%26+Machine+Learning;Xi%E2%80%99an+Jiaotong+University%2C+China" />
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4200&pause=1400&color=00CED1&center=true&vCenter=true&width=700&lines=Bachelor+of+Engineering+%28Computer+Science+%26+Technology%29;Xi%E2%80%99an+Jiaotong+University%2C+China" />
 </p>
 
-⚡ Focused on **lightweight, explainable, CPU-efficient ML systems**  
+⚡ Focused on **AI % ML Projects**  
 🧠 Research-driven • Optimization-aware • Deployment-focused  
 
 📫 <a href="mailto:sendmail2ovi@gmail.com"><b>Contact</b></a>
