@@ -1,45 +1,42 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=2200&pause=700&color=7F00FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Paul;AI+%26+Machine+Learning;NLP+%7C+Deep+Learning+%7C+Big+Data;Building+Efficient+Intelligent+Systems" />
-</h1>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3200&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=AI+%7C+Machine+Learning+%7C+Deep+Learning;Natural+Language+Processing+%7C+Big+Data;Efficient+%26+Explainable+AI+Systems" />
+</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=toxicovi&label=Profile+Views&color=7F00FF&style=flat" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI-Deep%20Learning-7F00FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/NLP-Transformers-00E5FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Big%20Data-ML%20Systems-FF00C8?style=flat-square" />
-  <img src="https://img.shields.io/badge/Efficient-CPU%20Optimized-00FF9C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Research--Focused-AI%20Engineer-6A5ACD?style=flat-square" />
+  <img src="https://img.shields.io/badge/CPU--Efficient-ML%20Systems-00CED1?style=flat-square" />
+  <img src="https://img.shields.io/badge/Explainable-XAI-20B2AA?style=flat-square" />
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 </p>
 
-## 👨‍💻 About
+## 🎓 Education
 
-🎓 **M.Eng — AI & Machine Learning**  
-🏫 *Xi’an Jiaotong University, China*
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1200&color=9370DB&center=true&vCenter=true&width=700&lines=Master+of+Engineering+%28AI+%26+Machine+Learning%29;Xi%E2%80%99an+Jiaotong+University%2C+China" />
+</p>
 
-🎓 **B.Eng — Computer Science & Technology**  
-🏫 *Xi’an Jiaotong University, China*
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4200&pause=1400&color=00CED1&center=true&vCenter=true&width=700&lines=Bachelor+of+Engineering+%28Computer+Science+%26+Technology%29;Xi%E2%80%99an+Jiaotong+University%2C+China" />
+</p>
 
-⚡ Lightweight • Explainable • CPU-Efficient AI  
-🧠 Research-driven | Optimization-aware | Deployment-focused  
+⚡ Focused on **lightweight, explainable, CPU-efficient ML systems**  
+🧠 Research-driven • Optimization-aware • Deployment-focused  
 
-📫 <a href="mailto:sendmail2ovi@gmail.com"><b>Contact Me</b></a>
+📫 <a href="mailto:sendmail2ovi@gmail.com"><b>Contact</b></a>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 </p>
 
-## 🚀 Projects
+## 🚀 Selected Projects
 
 ### 🔹 LiteFND++
-🧠 **Interpretable Fake News Detection**
+**Interpretable Fake News Detection**
 - DeBERTa-v3-small + GLU + Multi-Scale Attention  
-- SHAP explainability  
+- SHAP-based explainability  
 - **98.63% accuracy | CPU-optimized**
 
 🔗 https://github.com/toxicovi/LiteFND-
@@ -47,9 +44,9 @@
 ---
 
 ### 🔹 NeuroSTF
-⏱️ **Neuroplastic Sparse Attention**
+**Neuroplastic Sparse Attention for Time-Series**
 - Dynamic prune–regrow attention  
-- Temporal CNN + MLP  
+- Temporal CNN + MLP fusion  
 - **Long-horizon forecasting on CPUs**
 
 🔗 https://github.com/toxicovi/NeuroSTF
@@ -61,23 +58,16 @@
 ## 🧠 AI / ML Stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=1600&pause=600&color=00E5FF&center=true&vCenter=true&width=800&lines=Python+%7C+C%2FC%2B%2B+%7C+Java+%7C+PyTorch;Deep+Learning+%7C+NLP+%7C+Transformers;Time-Series+%7C+Optimization+%7C+Big+Data;Django+%7C+Laravel+%7C+MySQL+%7C+Oracle;Linux+%7C+Git+%7C+LaTeX+%7C+MATLAB;Verilog+%7C+VHDL+%7C+Logisim+%7C+Vivado" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=3500&pause=1000&color=20B2AA&center=true&vCenter=true&width=800&lines=Python+%7C+C%2FC%2B%2B+%7C+Java+%7C+PyTorch;Deep+Learning+%7C+NLP+%7C+Transformers;Time-Series+%7C+Optimization+%7C+Big+Data;Linux+%7C+Git+%7C+LaTeX+%7C+MATLAB;Verilog+%7C+VHDL+%7C+Logisim+%7C+Vivado" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Deep%20Learning-7F00FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/PyTorch-NLP%20%7C%20Transformers-EE4C2C?style=flat-square" />
-  <img src="https://img.shields.io/badge/Time--Series-Big%20Data-00E5FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Django-Laravel-00FF9C?style=flat-square" />
-  <img src="https://img.shields.io/badge/Linux-Git%20%7C%20LaTeX-FFD700?style=flat-square" />
-  <img src="https://img.shields.io/badge/HDL-Verilog%20%7C%20VHDL-FF00C8?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI%20Systems-Research--Grade-9370DB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-Efficient-00CED1?style=flat-square" />
+  <img src="https://img.shields.io/badge/NLP-Transformers-20B2AA?style=flat-square" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=toxicovi&show_icons=true&theme=tokyonight&hide_border=true" height="155"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=toxicovi&theme=tokyonight&hide_border=true" height="155"/>
+  <i>Designing scalable, explainable, and efficient AI systems.</i>
 </p>
 
-<p align="center">
-  <i>⚡ Designing intelligent systems that scale, explain, and last.</i>
-</p>
