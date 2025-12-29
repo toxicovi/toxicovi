@@ -1,4 +1,8 @@
 <h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=FFD700&center=true&vCenter=true&width=600&lines=Hello+World!+I+am+Paul" />
+</h2>
+
+<h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3200&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=AI+%7C+Machine+Learning+%7C+Deep+Learning;Natural+Language+Processing+%7C+Big+Data;Efficient+%26+Explainable+AI+Systems" />
 </h2>
 
@@ -34,22 +38,22 @@
 ## 🚀 Selected Projects
 
 ### 🔹 LiteFND++
-**Interpretable Fake News Detection**
+**Interpretable Fake News Detection**  
 - DeBERTa-v3-small + GLU + Multi-Scale Attention  
 - SHAP-based explainability  
-- **98.63% accuracy | CPU-optimized**
+- **98.63% accuracy | CPU-optimized**  
 
-🔗 https://github.com/toxicovi/LiteFND-
+🔗 [GitHub](https://github.com/toxicovi/LiteFND-)  
 
 ---
 
 ### 🔹 NeuroSTF
-**Neuroplastic Sparse Attention for Time-Series**
+**Neuroplastic Sparse Attention for Time-Series**  
 - Dynamic prune–regrow attention  
 - Temporal CNN + MLP fusion  
-- **Long-horizon forecasting on CPUs**
+- **Long-horizon forecasting on CPUs**  
 
-🔗 https://github.com/toxicovi/NeuroSTF
+🔗 [GitHub](https://github.com/toxicovi/NeuroSTF)  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
@@ -68,6 +72,5 @@
 </p>
 
 <p align="center">
-  <i>Designing scalable, explainable, and efficient AI systems.</i>
+  <i>Designing scalable, explainable, and CPU-efficient AI systems.</i>
 </p>
-
