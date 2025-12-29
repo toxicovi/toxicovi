@@ -26,7 +26,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4200&pause=1400&color=00CED1&center=true&vCenter=true&width=700&lines=Bachelor+of+Engineering+%28Computer+Science+%26+Technology%29;Xi%E2%80%99an+Jiaotong+University%2C+China" />
 </p>
 
-⚡ Focused on **AI % ML Projects**  
+⚡ Focused on **AI & ML Projects**  
 🧠 Research-driven • Optimization-aware • Deployment-focused  
 
 📫 <a href="mailto:sendmail2ovi@gmail.com"><b>Contact</b></a>
