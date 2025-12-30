@@ -37,13 +37,13 @@
 
 ## 🚀 Selected Projects
 
-### 🔹 LiteFND++
+### 🔹 LiteFNDpp
 **Interpretable Fake News Detection**  
 - DeBERTa-v3-small + GLU + Multi-Scale Attention  
 - SHAP-based explainability  
 - **98.63% accuracy | CPU-optimized**  
 
-🔗 [GitHub](https://github.com/toxicovi/LiteFND-)  
+🔗 [GitHub](https://github.com/toxicovi/LiteFNDpp)  
 
 ---
 
